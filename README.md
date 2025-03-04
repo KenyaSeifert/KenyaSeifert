@@ -11,6 +11,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 <hr>
 
+<p><img src="https://i.imgur.com/56uIg0M.png" width="400" alt="Microsoft Azure logo"/></p>
+
  <b><h3>Microsoft Azure</h3></b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
