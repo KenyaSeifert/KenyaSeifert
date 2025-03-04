@@ -8,7 +8,7 @@
  <b><h3>osTicket (Help Desk Ticketing System)</h3></b>
   - [osTicket: Prerequisites and Installation](https://github.com/KenyaSeifert/osTicket-Prerequisites))
   - [osTicket: Post-Installation Configuration](https://github.com/KenyaSeifert/Post-Installation))
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/KenyaSeifert/Ticket-Lifecycle)
 <hr>
 
 <p><img src="https://i.imgur.com/56uIg0M.png" width="400" alt="Microsoft Azure logo"/></p>
